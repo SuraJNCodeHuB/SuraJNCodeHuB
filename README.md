@@ -29,7 +29,7 @@ Feel free to explore, contribute, and star ⭐ the repositories if you find them
 Let's connect! You can reach me via:
 
 - 📧 Email: surajneupane02@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/surajneupane96/](linkedin.com/in/surajneupane96)
+- 🔗 LinkedIn: [linkedin.com/in/surajneupane32/](linkedin.com/in/surajneupane32)
 - 
 
 I'm always open to collaborations and discussions about technology and coding!
